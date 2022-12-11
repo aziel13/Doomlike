@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - EquipedGun
+  - Spawnpoint
+  - bulletSource
   layers:
   - Default
   - TransparentFX
